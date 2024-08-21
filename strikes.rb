@@ -2,7 +2,7 @@ class Strikes < Formula
   desc "Simple CLI tool to track and assign strikes to things"
   homepage "https://github.com/tbsklg/strikes"
   url "https://github.com/tbsklg/strikes/releases/download/0.0.2/strikes-0.0.2-x86_64-apple-darwin.tar.gz"
-  sha256 "ab565ff0c967c84ff3a8e9dd80208bfd172458afc543ac97cacfe7fbed57d3ea"
+  sha256 "899bf1e439fc9d74705700f376cac6dad6b6c91d2faaf9f0ba890f26da9fd31e"
   license "MIT"
 
   def install
