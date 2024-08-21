@@ -7,5 +7,6 @@ To install strikes, you need to have Homebrew installed.
 To install the strikes cli client, run the following command:
 
 ```bash
+brew tap tbsklg/strikes
 brew install strikes
 ```
