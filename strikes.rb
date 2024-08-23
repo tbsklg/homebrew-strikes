@@ -1,8 +1,8 @@
 class Strikes < Formula
   desc "Simple CLI tool to track and assign strikes"
   homepage "https://github.com/tbsklg/strikes"
-  url "https://github.com/tbsklg/strikes/releases/download/0.1.0/strikes-0.1.0-x86_64-apple-darwin.tar.gz"
-  sha256 "876f57417933f4c4075f2aece2eb3b7542475db0a03c2dfc395633a2658cc576"
+  url "https://github.com/tbsklg/strikes/releases/download/0.2.1/strikes-0.2.1-x86_64-apple-darwin.tar.gz"
+  sha256 "fb6be618c08cf796667002416b1abf509fb00a51bdbe5ab4f88094686a97c922"
   license "MIT"
 
   def install
